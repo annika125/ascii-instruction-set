@@ -29,7 +29,7 @@ Indent the next line one more time and type:
 "     ******       ******",
 
 ## Step 5
-Continue this process, keeping the indent at 2 tabs and creating a new comma-seperated line for each of the remaining layers of the heart:
+Continue this process, keeping the indent at 2 tabs and creating a new comma-separated line for each of the remaining layers of the heart:
 
 "   **********   **********",
 
